@@ -1,3 +1,2 @@
 # Image-search-application
-Its a JavaScript API based project is an absolute project for who want to do some project with API's  
-In this project i used unsplash's API to get the images 
+ImageSearchApp is a web-based application that allows users to search for images from various sources on the internet. It provides a user-friendly interface to input search queries and view search results in a visually appealing manner. This application leverages HTML, CSS, and JavaScript to create a seamless and interactive image search experiences 
